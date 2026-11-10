@@ -122,7 +122,7 @@ Omarchy installs the plugin from its Git repository, so there is no build step. 
 
 ## Contributing
 
-Open pull requests on GitHub against `main`. CI runs `tests/check-all.sh` (model, localization, scoped shell and release tests) on every pull request. Run the same checks locally:
+Report bugs and request features in [GitHub issues](https://github.com/subculture-collective/omarchy-plugin-shelfish/issues). Send code as pull requests on GitHub against `main`. CI runs `tests/check-all.sh` (model, localization, scoped shell and release tests) on every pull request. Run the same checks locally:
 
 ```sh
 tests/check-all.sh
